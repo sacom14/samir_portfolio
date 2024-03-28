@@ -1,0 +1,186 @@
+{
+  "basics": {
+    "name": "Samir Comas Moral",
+    "label": "Full Stack Developer",
+    "image": "",
+    "email": "samir.comas1@gmail.com",
+    "phone": "+34 660020416",
+    "url": "MI PORTFOLIO",
+    "summary": "Actualmente soy creador de contenido y divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "location": {
+      "address": "",
+      "postalCode": "08030",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "sacom14",
+        "url": "https://github.com/sacom14"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "samircomas",
+        "url": "https://www.linkedin.com/in/samircomas/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Barcelona Activa - It Academy",
+      "position": "Desarrollador de front-end Angular | Jest-Jasmine | Git | Scrum",
+      "url": "https://company.com",
+      "startDate": "2024-02-05",
+      "endDate": "",
+      "summary": "Desarrollo de nuevas funcionalidades para el proyecto IT Challenge. Realización de pruebas exhaustivas con Jest-Jasmine para garantizar la calidad del código. Colaboración activa en equipos ágiles, utilizando metodologías como SCRUM y Kanban para una entrega eficiente de proyectos. Experiencia en trabajo colaborativo con Git, asegurando un control de versiones efectivo y un flujo de trabajo ordenado.",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Núria Masdeu",
+      "position": "Administrador de sitios web WordPress",
+      "url": "https://company.com",
+      "startDate": "2024-01-15",
+      "endDate": "",
+      "summary": "Encargado del mantenimiento y actualización de páginas web existentes en WordPress. Desarrollo de nuevas funcionalidades y personalización de sitios según las necesidades del cliente. Gestión activa de blogs y test, asegurando contenido relevante y atractivo para los usuarios.",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fundación Esplai",
+      "url": "https://institution.com/",
+      "area": "Full-Stack C# .NET y SQL",
+      "studyType": "Bootcamp",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-23",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "It Academy - Barcelona Activa",
+      "url": "https://institution.com/",
+      "area": "Angular",
+      "studyType": "Máster",
+      "startDate": "2020-10-01",
+      "endDate": "2021-06-22",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Universitad de Vic - UCC",
+      "url": "https://institution.com/",
+      "area": "Máster Universitario en Formación de Profesorado",
+      "studyType": "Máster",
+      "startDate": "2020-10-01",
+      "endDate": "2021-06-22",
+      "score": "",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Universitad de Vic - UCC",
+      "url": "https://institution.com/",
+      "area": "Ciencias de la Actividad Física y el Deporte",
+      "studyType": "Grado",
+      "startDate": "2016-09-08",
+      "endDate": "2020-06-22",
+      "score": "7,717",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "date": "2023-12-05",
+      "issuer": "Microsoft",
+      "url": "https://www.credly.com/badges/beb78062-44c1-4dcf-8c2e-c890013e7d9a/linked_in_profile"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }
+  ]
+}
